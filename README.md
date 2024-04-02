@@ -1,2 +1,2 @@
-# -gitalk-comments
+# gitalk-comments
  学习使用，gitalk评论
